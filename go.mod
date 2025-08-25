@@ -1,4 +1,4 @@
-module conwaysGameOfLifeInGoWithOpenGl
+module ConwaysGameOfLife
 
 go 1.25.0
 
